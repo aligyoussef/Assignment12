@@ -1,3 +1,4 @@
+//Exercise 12 Part 2
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class Exceptions2
