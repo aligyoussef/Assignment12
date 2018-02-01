@@ -1,4 +1,4 @@
-//Part 3 of the class exercise
+//Part 3 of the class exercise.
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class Exceptions3
