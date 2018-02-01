@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
-public class Exceptions
+public class Exceptions3
 {
 	public static void main(String[] args)
 	{
