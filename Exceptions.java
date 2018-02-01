@@ -1,3 +1,4 @@
+//Part 1 of Exercise 12
 import java.util.Scanner;
 public class Exceptions
 {
